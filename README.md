@@ -2,5 +2,5 @@
 
 ## Reference
 
-- Pintos from Stanford University: https://web.stanford.edu/class/cs140/projects/pintos/pintos.pdf
+- Pintos: https://pintos-os.org
 - This version from Peking University: https://pkuflyingpig.gitbook.io/pintos
