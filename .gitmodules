@@ -3,4 +3,4 @@
 	url = https://github.com/PKU-OS/Pintos-dockerfile.git
 [submodule "pintos"]
 	path = pintos
-	url = https://github.com/PKU-OS/pintos.git
+	url = git@github.com:scorbiclife/pintos-source.git
