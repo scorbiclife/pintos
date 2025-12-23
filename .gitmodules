@@ -1,0 +1,6 @@
+[submodule "Pintos-dockerfile"]
+	path = Pintos-dockerfile
+	url = https://github.com/PKU-OS/Pintos-dockerfile.git
+[submodule "pintos"]
+	path = pintos
+	url = https://github.com/PKU-OS/pintos.git
